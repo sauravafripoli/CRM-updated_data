@@ -1,0 +1,136 @@
+[
+    {
+        "nonafrican": "France",
+        "partnership": [
+            {
+                "typeAgreement": "MoU on Critical Minerals",
+                "year": "2024-12-01",
+                "minerals": "Copper, lithium, nickel, cobalt, and REEs",
+                "areasCoop": [
+                    "Economic linkages and diversification",
+                    "Knowledge and capacity building",
+                    "Extraction and exploration partnerships",
+                    "Capital mobilization"
+                ],
+                "linkAgreement": "Agreement not available online",
+                "sources": "* Official press release of the FMINO in Nigeria on Facebook (not found on official website): https://www.facebook.com/FMINONigeria/photos/press-release-nigeria-france-sign-mou-on-critical-minerals-nigeria-and-france-ha/975521214608933/?_rdr\n* https://energycapitalpower.com/nigeria-france-partner-on-critical-minerals/   \n* https://guardian.ng/news/nigeria-france-sign-mou-on-critical-minerals/",
+                "country": "Nigeria"
+            },
+            {
+                "typeAgreement": "Cooperation Agreement with a priority focus on Minerals for the Energy Transition",
+                "year": "2024-02-28",
+                "minerals": "Minerals for the energy transition, no further specific information is available",
+                "areasCoop": [
+                    "Extraction and exploration partnerships",
+                    "Knowledge and capacity building"
+                ],
+                "linkAgreement": "Agreement not available online",
+                "sources": "Official source of the French Geological Survey (BRGM): https://www.brgm.fr/en/news/news/strategic-minerals-brgm-supports-zambia-angola",
+                "country": "Angola"
+            },
+            {
+                "typeAgreement": "Cooperation Agreement in the Field of Strategic Minerals",
+                "year": "2024-02-28",
+                "minerals": "Strategic minerals, no further specification is available",
+                "areasCoop": [
+                    "Knowledge and capacity building",
+                    "Extraction and exploration partnerships",
+                    "Capital mobilization"
+                ],
+                "linkAgreement": "Agreement not available online",
+                "sources": "Official source of the French Geological Survey (BRGM) https://www.brgm.fr/en/news/news/strategic-minerals-brgm-supports-zambia-angola",
+                "country": "Zambia"
+            }
+        ]
+    },
+    {
+        "nonafrican": "Italy",
+        "partnership": [
+            {
+                "typeAgreement": "Joint Declaration on Energy, Critical Raw Materials and Green Technology",
+                "year": "2024-05-21",
+                "minerals": "No information available regarding the specific scope of critical minerals involved.",
+                "areasCoop": [
+                    "Knowledge and capacity building",
+                    "Capital mobilization",
+                    "Economic linkages and diversification"
+                ],
+                "linkAgreement": "Agreement not available online",
+                "sources": "https://www.agenzianova.com/en/news/la-missione-di-urso-in-libia-focus-su-industria-materie-prime-e-rinnovabili/",
+                "country": "Libya"
+            }
+        ]
+    },
+    {
+        "nonafrican": "Netherlands",
+        "partnership": [
+            {
+                "typeAgreement": "Joint Communiqué of the Fourth Meeting of the South Africa - the Netherlands Joint Commission for Cooperation",
+                "year": "2025-05-19",
+                "minerals": "No information available regarding the specific scope of critical minerals involved.",
+                "areasCoop": "Economic linkages and diversification",
+                "linkAgreement": "Agreement not available online",
+                "sources": "Official source: https://www.government.nl/documents/diplomatic-statements/2025/05/19/joint-communique-of-the-fourth-meeting-of-the-south-africa---the-netherlands-joint-commission-for-cooperation-19-may-2025joint-communique-of-the-fourth-meeting-of-the-south-africa---the-netherlands-joint-commission-for-cooperation-19-may-2025",
+                "country": "South Africa"
+            }
+        ]
+    },
+    {
+        "nonafrican": "Poland",
+        "partnership": [
+            {
+                "typeAgreement": "MoU on Geological Cooperation",
+                "year": "2025-12-03",
+                "minerals": "No concrete mineral focus",
+                "areasCoop": [
+                    "Extraction and exploration partnerships",
+                    "Knowledge and capacity building"
+                ],
+                "linkAgreement": "Agreement not available online",
+                "sources": "Official source: https://www.gov.pl/web/climate/deputy-minister-krzysztof-galos-visits-uganda-and-rwanda",
+                "country": "Rwanda"
+            },
+            {
+                "typeAgreement": "Economic Cooperation Agreement",
+                "year": "2013-10-18",
+                "minerals": "No information available regarding the specific scope of critical minerals involved.",
+                "areasCoop": [
+                    "Extraction and exploration partnerships",
+                    "Capital mobilization",
+                    "Knowledge and capacity building"
+                ],
+                "linkAgreement": "Agreement not available online",
+                "sources": "Official source: https://www.gov.za/news/media-statements/south-africa-and-poland-sign-agreements-strengthen-cooperation-18-oct-2013",
+                "country": "South Africa"
+            }
+        ]
+    },
+    {
+        "nonafrican": "Spain",
+        "partnership": [
+            {
+                "typeAgreement": "Joint Declaration to Strengthen Political Dialogue and Cooperation",
+                "year": "2025-12-04",
+                "minerals": "No information available regarding the specific scope of critical minerals involved.",
+                "areasCoop": "Knowledge and capacity building",
+                "linkAgreement": "https://www.lamoncloa.gob.es/presidente/actividades/Documents/2025/04122025-declaracion-conjunta-espana-marruecos.pdf",
+                "sources": "Full text of statement from news site, point 67 : https://www.atalayar.com/en/articulo/politics/joint-statement-13th-high-level-meeting-between-morocco-and-spain/20251204195424221223.html",
+                "country": "Morocco"
+            }
+        ]
+    },
+    {
+        "nonafrican": "Germany",
+        "partnership": [
+            {
+                "typeAgreement": "German-South African Joint Action Plan",
+                "year": "2026-04-13",
+                "minerals": "No information available regarding the specific scope of critical minerals involved.",
+                "areasCoop": "Economic linkages and diversification",
+                "linkAgreement": "",
+                "sources": "Official source: https://www.auswaertiges-amt.de/en/newsroom/news/german-south-african-bi-national-commission-2763820",
+                "country": "South Africa"
+            }
+        ]
+    }
+]
