@@ -12,10 +12,11 @@
     "africanCountry": "Angola",
     "partnersNo": 4,
     "partners": [
-      "Brazil (1992)",
+      "Brazil (1992, 2026)",
       "China (2006, 2016)",
       "Cuba (2009)",
       "Russia (2009, 2019)"
+      
     ]
   },
   {
@@ -61,10 +62,11 @@
     "africanCountry": "Democratic Republic of the Congo",
     "partnersNo": 4,
     "partners": [
-      "USA (2022)",
+      "United States (2022, 2025)",
       "Japan (2022, 2023)",
       "EU (2023)",
       "Saudi Arabia (2024)"
+      
     ]
   },
   {
@@ -118,9 +120,10 @@
   },
   {
     "africanCountry": "Guinea",
-    "partnersNo": 1,
+    "partnersNo": 2,
     "partners": [
-      "Turkey (2017)"
+      "Turkey (2017)",
+      "United States (2026)"
     ]
   },
   {
@@ -190,13 +193,14 @@
   },
   {
     "africanCountry": "Morocco",
-    "partnersNo": 5,
+    "partnersNo": 6,
     "partners": [
       "China (2016)",
       "India (2018)",
       "Indonesia (2018)",
       "Saudi Arabia (2024)",
-      "Turkey (2024)"
+      "Turkey (2024)",
+      "United States (2026)"
     ]
   },
   {
@@ -233,7 +237,7 @@
       "Austria (1982)",
       "South Korea (2006)",
       "China (2012, 2024)",
-      "Turkey (2021)",
+      "Turkey (2021, 2026)",
       "Saudi Arabia (2024)",
       "UK (2024)"
     ]
@@ -282,7 +286,7 @@
   },
   {
     "africanCountry": "South Africa",
-    "partnersNo": 10,
+    "partnersNo": 11,
     "partners": [
       "Iran (1995)",
       "India (1997)",
@@ -293,7 +297,8 @@
       "Canada (2015)",
       "Japan (2017)",
       "Chile (2017)",
-      "UK (2022)"
+      "UK (2022)",
+      "EU (2025)"
     ]
   },
   {
@@ -343,7 +348,7 @@
     "partners": [
       "China (2010)",
       "India (2019)",
-      "USA (2022)",
+      "United States (2022)",
       "United Arab Emirates (2023)",
       "Japan (2023)",
       "UK (2023)",
