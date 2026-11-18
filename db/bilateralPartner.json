@@ -566,6 +566,7 @@
                         "linkAgreement": "",
                         "sources": "https://saiia.org.za/wp-content/uploads/2014/08/Occasional-Paper-199.pdf"
                     }
+
                 ]
             },
             {
@@ -722,6 +723,49 @@
                 "areasCoop": "",
                 "linkAgreement": "",
                 "sources": "https://www.africanews.com/2024/07/11/guinea-bissau-china-upgrade-ties-as-presidents-meet//"
+            },
+
+            {
+                "country": "Namibia",
+                "typeAgreement": "Joint Statement on Building a China-Namibia Community with a Shared Future for the New Era",
+                "year": "2026-07-10",
+                "minerals": "",
+                "areasCoop": [
+                    "Knowledge and capacity building",
+                    "Extraction and exploration partnerships",
+                    "Economic linkages and diversification"
+                ],
+                "linkAgreement": "https://www.mfa.gov.cn/eng/xw/zyxw/202607/t20260710_11979845.html",
+                "sources": "https://africa.businessinsider.com/local/markets/china-targets-namibias-oil-uranium-and-lithium-in-fresh-strategic-partnership/z86ypg8"
+                    
+            },
+
+            {
+                "country": "Egypt",
+                "typeAgreement": "Joint Communiqué on the Further Deepening of Comprehensive Strategic Partnership",
+                "year": "2026-09-02",
+                "minerals": "",
+                "areasCoop": [
+                    "Extraction and exploration partnerships",
+                    "Economic linkages and diversification"
+                ],
+                "linkAgreement": "https://www.presidency.eg/en/قسم-الأخبار/أخبار-رئاسية/02092026-2/  ",
+                "sources": "https://www.spglobal.com/energy/en/news-research/latest-news/metals/090326-china-egypt-to-enhance-critical-minerals-cooperation"
+                    
+            },
+
+            {
+                "country": "Botswana",
+                "typeAgreement": "Joint Statement between the People's Republic of China and the Republic of Botswana on the Establishment of a Comprehensive Strategic Cooperative Partnership",
+                "year": "2026-10-13",
+                "minerals": "",
+                "areasCoop": [
+                    "Extraction and exploration partnerships",
+                    "Sustainable governance",
+                    "Knowledge and capacity building"
+                ],
+                "linkAgreement": "https://www.fmprc.gov.cn/eng/xw/zyxw/202610/t20261013_12039692.html",
+                "sources": "https://english.news.cn/20261013/ad8d7d68ceef447781efdcf4003a872e/c.html"
             }
         ],
         "center": [
@@ -1037,6 +1081,21 @@
                 ],
                 "linkAgreement": "",
                 "sources": "https://www.state.gov/releases/office-of-the-spokesperson/2026/02/2026-critical-minerals-ministerial"
+            },
+
+            {
+                "country": "Nigeria",
+                "typeAgreement": "Agreement to Deepen Mining Investment",
+                "year": "2026-09-24",
+                "minerals": "",
+                "areasCoop": [
+                    "Economic linkages and diversification",
+                    "Knowledge and capacity building",
+                    "Capital mobilization",
+                    "Extraction and exploration partnerships"
+                ],
+                "linkAgreement": "",
+                "sources": "https://www.reuters.com/world/africa/nigeria-us-sign-agreement-boost-mining-investment-2026-09-24/"
             }
         ],
         "center": [
@@ -1097,7 +1156,7 @@
                         "year": "1992-07-15",
                         "minerals": "",
                         "areasCoop": "",
-                        "linkAgreement": "",
+                        "linkAgreement": "https://www.gov.br/mme/pt-br/atos-internacionais/atos-internacionais-2025/angola/2026-memorando-de-entendimento-brasil-angola-em-cooperacao-energetica.pdf/view",
                         "sources": "https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=1076&context=djilp"
                     },
                     {
@@ -1510,6 +1569,19 @@
                 "linkAgreement": "",
                 "sources": "https://www.auswaertiges-amt.de/en/newsroom/news/german-south-african-bi-national-commission-2763820",
                 "country": "South Africa"
+            },
+
+            {
+                "country": "Namibia",
+                "typeAgreement": "Technical Cooperation Agreement for Expanding Energy Access and Developing Sustainable Critical Mineral Value Chains",
+                "year": "2026-10-09",
+                "minerals": "",
+                "areasCoop": [
+                    "Economic linkages and diversification",
+                    "Sustainable governance"
+                ],
+                "linkAgreement": "",
+                "sources": "https://www.reuters.com/world/africa/nigeria-us-sign-agreement-boost-mining-investment-2026-09-24/"
             }
         ],
         "center": [51.1657, 10.4515],
